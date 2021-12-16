@@ -1,3 +1,7 @@
+
+# Adapted from: 
+#  https://github.com/navdeep-G/samplemod/tree/master/tests/context.py
+
 from sys import path as sys_path
 from os import path as os_path
 
